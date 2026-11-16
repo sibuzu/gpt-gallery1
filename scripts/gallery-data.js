@@ -401,6 +401,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "Dress",
+    "src": "images/Dress/白色雪紡迷你洋裝-01.png",
+    "hasDescription": true,
+    "title": "白色雪紡迷你洋裝-01",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "category": "Dress",
     "src": "images/Dress/短褲a-01.png",
     "hasDescription": true,
     "title": "短褲a-01",
@@ -5222,6 +5230,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "雪花a-06",
     "width": 1024,
     "height": 1536
+  },
+  {
+    "category": "Dress",
+    "src": "images/Dress/短裙q-01.png",
+    "hasDescription": true,
+    "title": "短裙q-01",
+    "width": 887,
+    "height": 1774
   },
   {
     "category": "Theme",
