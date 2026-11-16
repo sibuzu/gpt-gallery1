@@ -1577,6 +1577,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "Dress",
+    "src": "images/Dress/度假白色雪紡迷你洋裝-06.png",
+    "hasDescription": true,
+    "title": "度假白色雪紡迷你洋裝-06",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "category": "Dress",
     "src": "images/Dress/短褲i-01.png",
     "hasDescription": true,
     "title": "短褲i-01",
@@ -2164,6 +2172,14 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/Dress/迷你裙j-01.png",
     "hasDescription": true,
     "title": "迷你裙j-01",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "category": "Dress",
+    "src": "images/Dress/度假白色雪紡迷你洋裝-07.png",
+    "hasDescription": true,
+    "title": "度假白色雪紡迷你洋裝-07",
     "width": 1024,
     "height": 1536
   },
@@ -4032,6 +4048,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "Dress",
+    "src": "images/Dress/度假白色雪紡迷你洋裝-02.png",
+    "hasDescription": true,
+    "title": "度假白色雪紡迷你洋裝-02",
+    "width": 1024,
+    "height": 1536
+  },
+  {
     "category": "Theme",
     "src": "images/Theme/宮殿畫像-15.png",
     "hasDescription": true,
@@ -5206,6 +5230,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "背心熱褲d-01",
     "width": 1024,
     "height": 1535
+  },
+  {
+    "category": "Dress",
+    "src": "images/Dress/度假白色雪紡迷你洋裝-08.png",
+    "hasDescription": true,
+    "title": "度假白色雪紡迷你洋裝-08",
+    "width": 1024,
+    "height": 1536
   },
   {
     "category": "Theme",
@@ -6809,6 +6841,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "Dress",
+    "src": "images/Dress/度假白色雪紡迷你洋裝-05.png",
+    "hasDescription": true,
+    "title": "度假白色雪紡迷你洋裝-05",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "category": "Dress",
     "src": "images/Dress/比基尼e-08.png",
     "hasDescription": true,
     "title": "比基尼e-08",
@@ -8064,6 +8104,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1536
   },
   {
+    "category": "Dress",
+    "src": "images/Dress/度假白色雪紡迷你洋裝-03.png",
+    "hasDescription": true,
+    "title": "度假白色雪紡迷你洋裝-03",
+    "width": 1024,
+    "height": 1536
+  },
+  {
     "category": "Theme",
     "src": "images/Theme/油畫a-01.png",
     "hasDescription": true,
@@ -8124,6 +8172,14 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/Dress/細肩帶洋裝-07.png",
     "hasDescription": true,
     "title": "細肩帶洋裝-07",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "category": "Dress",
+    "src": "images/Dress/度假白色雪紡迷你洋裝-04.png",
+    "hasDescription": true,
+    "title": "度假白色雪紡迷你洋裝-04",
     "width": 1024,
     "height": 1536
   },
@@ -10240,6 +10296,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1536
   },
   {
+    "category": "Dress",
+    "src": "images/Dress/度假白色雪紡迷你洋裝-01.png",
+    "hasDescription": true,
+    "title": "度假白色雪紡迷你洋裝-01",
+    "width": 1024,
+    "height": 1536
+  },
+  {
     "category": "Theme",
     "src": "images/Theme/海報b-03.png",
     "hasDescription": false,
@@ -12084,6 +12148,14 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/Dress/金碧宮廷佳人-49.png",
     "hasDescription": false,
     "title": "金碧宮廷佳人-49",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "category": "Dress",
+    "src": "images/Dress/度假白色雪紡迷你洋裝-09.png",
+    "hasDescription": true,
+    "title": "度假白色雪紡迷你洋裝-09",
     "width": 1024,
     "height": 1536
   },
