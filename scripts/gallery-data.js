@@ -376,6 +376,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1402
   },
   {
+    "category": "Dress",
+    "src": "images/Dress/白色雪紡迷你洋裝-04.png",
+    "hasDescription": true,
+    "title": "白色雪紡迷你洋裝-04",
+    "width": 1024,
+    "height": 1536
+  },
+  {
     "category": "Theme",
     "src": "images/Theme/蹲下-19.png",
     "hasDescription": false,
@@ -782,6 +790,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "旗袍b-08",
     "width": 1024,
     "height": 1536
+  },
+  {
+    "category": "Dress",
+    "src": "images/Dress/白色雪紡迷你洋裝-08.png",
+    "hasDescription": true,
+    "title": "白色雪紡迷你洋裝-08",
+    "width": 1122,
+    "height": 1402
   },
   {
     "category": "Dress",
@@ -2508,6 +2524,14 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/Theme/手機a-13.png",
     "hasDescription": false,
     "title": "手機a-13",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "category": "Dress",
+    "src": "images/Dress/白色雪紡迷你洋裝-03.png",
+    "hasDescription": true,
+    "title": "白色雪紡迷你洋裝-03",
     "width": 1024,
     "height": 1536
   },
@@ -4848,6 +4872,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1537
   },
   {
+    "category": "Dress",
+    "src": "images/Dress/白色雪紡迷你洋裝-06.png",
+    "hasDescription": true,
+    "title": "白色雪紡迷你洋裝-06",
+    "width": 1024,
+    "height": 1536
+  },
+  {
     "category": "Folk",
     "src": "images/Folk/中國旗袍b-03.png",
     "hasDescription": false,
@@ -5556,6 +5588,14 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/Dress/禮服a-01.png",
     "hasDescription": true,
     "title": "禮服a-01",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "category": "Dress",
+    "src": "images/Dress/白色雪紡迷你洋裝-09.png",
+    "hasDescription": true,
+    "title": "白色雪紡迷你洋裝-09",
     "width": 1024,
     "height": 1536
   },
@@ -7872,6 +7912,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1402
   },
   {
+    "category": "Dress",
+    "src": "images/Dress/白色雪紡迷你洋裝-11.png",
+    "hasDescription": true,
+    "title": "白色雪紡迷你洋裝-11",
+    "width": 1024,
+    "height": 1536
+  },
+  {
     "category": "Theme",
     "src": "images/Theme/鏡子b-01.png",
     "hasDescription": true,
@@ -8134,6 +8182,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "臥室b-08",
     "width": 1023,
     "height": 1537
+  },
+  {
+    "category": "Dress",
+    "src": "images/Dress/白色雪紡迷你洋裝-05.png",
+    "hasDescription": true,
+    "title": "白色雪紡迷你洋裝-05",
+    "width": 1024,
+    "height": 1536
   },
   {
     "category": "Dress",
@@ -9704,6 +9760,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1535
   },
   {
+    "category": "Dress",
+    "src": "images/Dress/白色雪紡迷你洋裝-07.png",
+    "hasDescription": true,
+    "title": "白色雪紡迷你洋裝-07",
+    "width": 1122,
+    "height": 1402
+  },
+  {
     "category": "Theme",
     "src": "images/Theme/畫廊a-02.png",
     "hasDescription": true,
@@ -10161,6 +10225,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "Dress",
+    "src": "images/Dress/白色雪紡迷你洋裝-10.png",
+    "hasDescription": true,
+    "title": "白色雪紡迷你洋裝-10",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "category": "Dress",
     "src": "images/Dress/薄紗裙i-03.png",
     "hasDescription": true,
     "title": "薄紗裙i-03",
@@ -10478,6 +10550,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "img-20260720-073649",
     "width": 1086,
     "height": 1448
+  },
+  {
+    "category": "Dress",
+    "src": "images/Dress/白色雪紡迷你洋裝-02.png",
+    "hasDescription": true,
+    "title": "白色雪紡迷你洋裝-02",
+    "width": 1024,
+    "height": 1536
   },
   {
     "category": "Dress",
@@ -10870,6 +10950,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "img-20260719-193713",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "Dress",
+    "src": "images/Dress/白色雪紡迷你洋裝-12.png",
+    "hasDescription": true,
+    "title": "白色雪紡迷你洋裝-12",
+    "width": 1024,
+    "height": 1536
   },
   {
     "category": "Theme",
