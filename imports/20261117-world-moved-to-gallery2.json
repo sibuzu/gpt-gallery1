@@ -1,0 +1,406 @@
+{
+  "date": "2026-11-17",
+  "status": "moved_to_gallery2",
+  "destination_repository": "sibuzu/gpt-gallery2",
+  "note": "Records the existing local move from Gallery1 Dress to Gallery2 世界; all 33 PNGs and 33 prompts match the Gallery1 HEAD bytes. Historical import records retain original paths. Gallery1 snapshot rebuilt without renaming files.",
+  "image_count": 33,
+  "prompt_count": 33,
+  "files": [
+    {
+      "original_path": "images/Dress/世界風景-01.md",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-01.md",
+      "sha256": "92a8b6109819e44d125bc582280167b80638e514958bda068b68f2cff28e82d6"
+    },
+    {
+      "original_path": "images/Dress/世界風景-01.png",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-01.png",
+      "sha256": "730d4f51097a9be2b823ea39c30c6f98b46bb66f1e6d8cc09c349278b472e248"
+    },
+    {
+      "original_path": "images/Dress/世界風景-02.md",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-02.md",
+      "sha256": "35a613d1eebefd7a7f0682297699b28a65e953924095edd52d0c923735c06b29"
+    },
+    {
+      "original_path": "images/Dress/世界風景-02.png",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-02.png",
+      "sha256": "73b3130dd508338c0b0fef5112392a430af5ef3167d12e41bffd97dc495abb53"
+    },
+    {
+      "original_path": "images/Dress/世界風景-03.md",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-03.md",
+      "sha256": "85e6daad0c1a2771e557005dce31f4a856ac401ae1f31e70edfb461c7f610556"
+    },
+    {
+      "original_path": "images/Dress/世界風景-03.png",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-03.png",
+      "sha256": "5828f5bacb260eb8692e9e671edf1ba83c13f126a7f7810adcb912de6e8e06d2"
+    },
+    {
+      "original_path": "images/Dress/世界風景-04.md",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-04.md",
+      "sha256": "b5b76704e4c0095b46465d4358aebaf0afd00d0a9fc65c65b3d25586e3f83a12"
+    },
+    {
+      "original_path": "images/Dress/世界風景-04.png",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-04.png",
+      "sha256": "c585056e36055ce522d6ac77cf65b3ca7d2af964f63337d085e1c5b2cec0796f"
+    },
+    {
+      "original_path": "images/Dress/世界風景-05.md",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-05.md",
+      "sha256": "767438d867e1727e03febc8420061419ff3db0c950532182fd34a31b88872e60"
+    },
+    {
+      "original_path": "images/Dress/世界風景-05.png",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-05.png",
+      "sha256": "4930837d9016d9757d7e8a32ae5a38f9ec6c86db192299c0524ff15ce2a942a3"
+    },
+    {
+      "original_path": "images/Dress/世界風景-06.md",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-06.md",
+      "sha256": "66c5de1240f8f918373c6a52034cb9b0a17795d1bd04a6a8547077a72d772a10"
+    },
+    {
+      "original_path": "images/Dress/世界風景-06.png",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-06.png",
+      "sha256": "41b93f38f59728fac6c1f46421d36e60bd21613aaf9090b228d6198513797ec1"
+    },
+    {
+      "original_path": "images/Dress/世界風景-07.md",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-07.md",
+      "sha256": "a7f3610020c29a25dbab1befdb96e70ac791ef10fb5b67f90f0b77ced183b11b"
+    },
+    {
+      "original_path": "images/Dress/世界風景-07.png",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-07.png",
+      "sha256": "b1262a77366e7c50df8887ce374e11be5e1cf44e53ffb9f26e682c3af1d5b600"
+    },
+    {
+      "original_path": "images/Dress/世界風景-08.md",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-08.md",
+      "sha256": "24385a79875a00bedd82ec11ac6e6695c2a8791320e67f0e436693a86de8f1a4"
+    },
+    {
+      "original_path": "images/Dress/世界風景-08.png",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-08.png",
+      "sha256": "3ec761944a82cd52b5df260fd82d02d4e71512e13ca03d551cabe97228e28590"
+    },
+    {
+      "original_path": "images/Dress/世界風景-09.md",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-09.md",
+      "sha256": "557503902a4885764e3c8db03f886417541f62c510a96af70bd48697f8d048bb"
+    },
+    {
+      "original_path": "images/Dress/世界風景-09.png",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-09.png",
+      "sha256": "42311d3cd73d9fcee51060eb9550c61b00ebe09bdddf33882eb09cf549517e57"
+    },
+    {
+      "original_path": "images/Dress/世界風景-10.md",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-10.md",
+      "sha256": "381d21a455eeadc1840039e325569f523b4abce3a33991c9a5ffdec28426e28c"
+    },
+    {
+      "original_path": "images/Dress/世界風景-10.png",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-10.png",
+      "sha256": "2708e1a93e325067baecefc289b032482c25562d7caee10989f1c396a052d8ae"
+    },
+    {
+      "original_path": "images/Dress/世界風景-11.md",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-11.md",
+      "sha256": "2af0de3ccaacd5cd33b498f67fe54f294bafe5354cff0f260d7adff3d80a09ef"
+    },
+    {
+      "original_path": "images/Dress/世界風景-11.png",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-11.png",
+      "sha256": "b287cfd1d0acaf9ac18009edcfb8d01c0685bd0d0a33210b7223c061fa15d625"
+    },
+    {
+      "original_path": "images/Dress/世界風景-12.md",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-12.md",
+      "sha256": "8a0293d42a4a57a12590ea299584951fe7f88664378eb89f07cbf34c84428943"
+    },
+    {
+      "original_path": "images/Dress/世界風景-12.png",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-12.png",
+      "sha256": "bd640085505b9c89a7ab8fec5b4f2f1856fd2ef6d2438bf5872eb75d7a147f8a"
+    },
+    {
+      "original_path": "images/Dress/世界風景-13.md",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-13.md",
+      "sha256": "44f5dc843b4177bd5c43596d254bca3e0c4497246b6c1a65ec3495eeda289902"
+    },
+    {
+      "original_path": "images/Dress/世界風景-13.png",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-13.png",
+      "sha256": "fed7bab6c169ba63db19435aacdce05940ace5164a4222faac482de7b10fffc2"
+    },
+    {
+      "original_path": "images/Dress/世界風景-14.md",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-14.md",
+      "sha256": "736b3494a7dc66c6950bf1625342bfdb48677dcaa20fa1eac0b9140e6af2e399"
+    },
+    {
+      "original_path": "images/Dress/世界風景-14.png",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-14.png",
+      "sha256": "81e31b72f6bce7be0212ad9fa59dfc250e34d5c6bb87e9a6a8d5af5727b46b34"
+    },
+    {
+      "original_path": "images/Dress/世界風景-15.md",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-15.md",
+      "sha256": "25faac2133a39124f0f1aa2888ddb01542ea99fd0106db6a32a5251ead665f58"
+    },
+    {
+      "original_path": "images/Dress/世界風景-15.png",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-15.png",
+      "sha256": "9aa16c3297b1e005a3cb5efc9d99699f0c76820f794ec8ae7dd2b9b55c8c6b3a"
+    },
+    {
+      "original_path": "images/Dress/世界風景-16.md",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-16.md",
+      "sha256": "d61338ac3c545922bd2bc879ae32d3951113d64c9336ce0d300a4c1ffa57780b"
+    },
+    {
+      "original_path": "images/Dress/世界風景-16.png",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-16.png",
+      "sha256": "84b6c3bf3d21cca734cb181c6d2dd65cd2bb7f3ddea181f7f33de1846c86656a"
+    },
+    {
+      "original_path": "images/Dress/世界風景-17.md",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-17.md",
+      "sha256": "bcfe6fafd522713945b28bf0a3c5ece2f8b38a717d8585de6c67823c1605b475"
+    },
+    {
+      "original_path": "images/Dress/世界風景-17.png",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-17.png",
+      "sha256": "bf915fa9356451d5ca4cbb93066aa7a15e30e37230d3e70ef9db95a3eed74936"
+    },
+    {
+      "original_path": "images/Dress/世界風景-18.md",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-18.md",
+      "sha256": "b0573cfd52cc29c693cc4a841e737887a1ef0dd95185a049d8210f441a20eeac"
+    },
+    {
+      "original_path": "images/Dress/世界風景-18.png",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-18.png",
+      "sha256": "d8e330561dbfaadddd5acecaffbfb48c2e66663ccf66085c7b8feadcf8f87096"
+    },
+    {
+      "original_path": "images/Dress/世界風景-19.md",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-19.md",
+      "sha256": "00d14f6bf467b10fc545e963f31aaf0ca94e44d1596cec481a979e560c79131f"
+    },
+    {
+      "original_path": "images/Dress/世界風景-19.png",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-19.png",
+      "sha256": "88a33817ce61c8b96e864eef9a5e3f4fcc57e3b3247add41a4f01373be5cf560"
+    },
+    {
+      "original_path": "images/Dress/世界風景-20.md",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-20.md",
+      "sha256": "2f03b277e9534b4faf8e4dc5deb2045c931dbd516c3e71a73e68690fcd840919"
+    },
+    {
+      "original_path": "images/Dress/世界風景-20.png",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-20.png",
+      "sha256": "892f9d09494c0dfdec1728211bd3e95bdcbe930725f5c42f9202c6cad3eb164c"
+    },
+    {
+      "original_path": "images/Dress/世界風景-21.md",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-21.md",
+      "sha256": "88fbe18748655d8256fc47114e1cb9c91a55844bb1f0a86c5b85dfb3f583ad6b"
+    },
+    {
+      "original_path": "images/Dress/世界風景-21.png",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-21.png",
+      "sha256": "00141b324f23fe8b6c29bed2f77a3ad691556150e733cb04caad162cd63473eb"
+    },
+    {
+      "original_path": "images/Dress/世界風景-22.md",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-22.md",
+      "sha256": "eddae949058871bdc6ba259c13f0d3e3f94e7f9d6370cb246c33cc42ecfb009a"
+    },
+    {
+      "original_path": "images/Dress/世界風景-22.png",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-22.png",
+      "sha256": "9579d57a3b9ad5d0d0300f326445a65ab34906b8965e23745391fce83d06e6d3"
+    },
+    {
+      "original_path": "images/Dress/世界風景-23.md",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-23.md",
+      "sha256": "f2cd07a8363f516f3c591015723273c1d3cbc2ddd156d6642007adeee7c600a6"
+    },
+    {
+      "original_path": "images/Dress/世界風景-23.png",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-23.png",
+      "sha256": "e64a8fc47e29353274bc0e060e34f0f1366c29822677d98d6e4fb7fbb080b4c1"
+    },
+    {
+      "original_path": "images/Dress/世界風景-24.md",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-24.md",
+      "sha256": "1fd74b5979f660daa20d74080e17e5e7b59ba33130f8bebe007e25beb7de072d"
+    },
+    {
+      "original_path": "images/Dress/世界風景-24.png",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-24.png",
+      "sha256": "3ad42d541e88e3a177ee6921b96bd312d15b5c5ebe83a2cd4b75b00a97d47af3"
+    },
+    {
+      "original_path": "images/Dress/世界風景-25.md",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-25.md",
+      "sha256": "88280bcf180116a8c84d25dba4b0d67276b39d772c0bff79792e621662d2d269"
+    },
+    {
+      "original_path": "images/Dress/世界風景-25.png",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-25.png",
+      "sha256": "0c5181ebaa19c65ba346d5b17863a547607e5649b478f943598b3fb857fc0312"
+    },
+    {
+      "original_path": "images/Dress/世界風景-26.md",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-26.md",
+      "sha256": "3a10ad05a559a45a2556cf42236a48577d590ae61c35794b966a11b42a1bdf3e"
+    },
+    {
+      "original_path": "images/Dress/世界風景-26.png",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-26.png",
+      "sha256": "5239aee61e3a7aff36f2db74e437947d22af8fffc314eb6a154f39fb91deb020"
+    },
+    {
+      "original_path": "images/Dress/世界風景-27.md",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-27.md",
+      "sha256": "2fecfffae9d7fbf2e53ed0fe530e7be54b2994fd4a3248f872b5709ab847b076"
+    },
+    {
+      "original_path": "images/Dress/世界風景-27.png",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-27.png",
+      "sha256": "b3603912c0cee22221d8e8376e777adec043050d60ef125a4a375fa411dc98ca"
+    },
+    {
+      "original_path": "images/Dress/世界風景-28.md",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-28.md",
+      "sha256": "2fecfffae9d7fbf2e53ed0fe530e7be54b2994fd4a3248f872b5709ab847b076"
+    },
+    {
+      "original_path": "images/Dress/世界風景-28.png",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-28.png",
+      "sha256": "7aa5d4bcd6f842ed0f382b716dc7821af9af9d9a1a74b59cf073126a207bc630"
+    },
+    {
+      "original_path": "images/Dress/世界風景-29.md",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-29.md",
+      "sha256": "2fecfffae9d7fbf2e53ed0fe530e7be54b2994fd4a3248f872b5709ab847b076"
+    },
+    {
+      "original_path": "images/Dress/世界風景-29.png",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-29.png",
+      "sha256": "8af7d599a23d997f187b8581c0b3c5bb9efd7c681f79009c74bc5c49d16260fe"
+    },
+    {
+      "original_path": "images/Dress/世界風景-30.md",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-30.md",
+      "sha256": "a429f5b550c5c9e9a3e00ec7fab77806f41f03df2db49cc6232cdc166b60afff"
+    },
+    {
+      "original_path": "images/Dress/世界風景-30.png",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-30.png",
+      "sha256": "ea22aa6582f791f3c9deb08e8ee7040e7ecb2b14b16d3bb3b214146cd55cf268"
+    },
+    {
+      "original_path": "images/Dress/世界風景-31.md",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-31.md",
+      "sha256": "80edcac5a62bca62f075d00f82d5916169374e9245d6b4ce01ca41cd31624eaf"
+    },
+    {
+      "original_path": "images/Dress/世界風景-31.png",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-31.png",
+      "sha256": "7b7d9be18e1e945b6ebbc5914faf8c661820107b8f9bd74844e33d55b7507c60"
+    },
+    {
+      "original_path": "images/Dress/世界風景-32.md",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-32.md",
+      "sha256": "a0eb5cc08ff9576f249bb265161667dcb6f3041c300b493a209a02de35beffe8"
+    },
+    {
+      "original_path": "images/Dress/世界風景-32.png",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-32.png",
+      "sha256": "449f9f997d1caa517161591d1ec50468b2f0f542efed43eebe3a96848fc5c19c"
+    },
+    {
+      "original_path": "images/Dress/世界風景-33.md",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-33.md",
+      "sha256": "d61bf32211ec27b9549d69a92dc8cad1c1fcb65b8df3ec23249193798670052f"
+    },
+    {
+      "original_path": "images/Dress/世界風景-33.png",
+      "destination_repository": "sibuzu/gpt-gallery2",
+      "destination_path": "images/世界/世界風景-33.png",
+      "sha256": "523ddfeb075f2c490e17dfc5fa22476d06b419e639026cc42836d148666f33df"
+    }
+  ]
+}
