@@ -1,0 +1,33 @@
+{
+  "source": "https://chatgpt.com/share/6afbf70f-2330-83ee-bd34-cb325f625dcd",
+  "shareId": "6afbf70f-2330-83ee-bd34-cb325f625dcd",
+  "title": "生成風景寫真提示詞",
+  "sourceHtmlSHA256": "6b967969952bd39b40230ee90698e08e596954a3b970ffd6aabb055cf3f4a82f",
+  "sourceFetchedAt": "2026-11-17T06:47:18.372679+00:00",
+  "taskId": "t_690dcc573d0e49dfb214",
+  "sourceUserPromptCount": 1,
+  "sourceImageReferenceCount": 1,
+  "sourceImageCount": 1,
+  "duplicateCheckScope": "gallery1 only; gallery2 excluded per user instruction",
+  "images": [
+    {
+      "index": 1,
+      "fileId": "file_0000000024008211a7df52169aceb09b",
+      "messageId": "9ab5bd62-e87f-4605-91ae-cda0b0240f2b",
+      "promptMessageId": "ca8b10aa-de89-4893-8d94-41d15318c9e8",
+      "prompt": "風景寫真 景點(海邊、湖景、森林、庭園、酒站、高塔、太空)隨機\n隨機（高、平、低、極低）專業拍攝視角\n\n東方成年女人\n以傳統漢服交領無袖窄襦為設計原型，將上衣重構成煙紫色與丁香白色交錯的極短版立體衣身。頸部保留窄幅紫銀色交領結構，兩條紫色刺繡斜襟從頸側交叉延伸至胸前，與丁香白色立體胸衣裁片結合，在胸前形成開放式幾何鏤空。胸下使用紫銀色花形扣件與細緻繫帶收束。上衣兩側大面積鏤空，使雙肩、鎖骨、手臂、腹部、側腰及大部分背部自然展露，形成輕盈而富有曲線感的服裝結構。\n\n前方窄長的丁香白色刺繡裙片，以及左右兩側獨立的煙紫色短裙片。兩側裙片從髖部外側向後展開，形成極高的側向開口，大幅展露腰側、髖部外側及雙腿。裙片之間以紫銀色細鏈和繫帶連接，後方則形成多層長至地面的飄逸薄紗裙襬。背面保留細緻交叉繫帶與窄幅裙片連接結構，展現大面積露背效果。\n\n煙紫色歐根紗、丁香白色真絲、半透明薄紗、淡銀色花卉刺繡、紫水晶金屬配件、立體花形扣件、細緻珠鏈與流蘇。布料質感輕盈，薄紗具有自然透明度及柔順垂墜效果。",
+      "source": "https://chatgpt.com/backend-anon/share/6afbf70f-2330-83ee-bd34-cb325f625dcd/file/file_0000000024008211a7df52169aceb09b",
+      "declaredWidth": 1024,
+      "declaredHeight": 1536,
+      "bytes": 2546640,
+      "mimeType": "image/png",
+      "sha256": "9dd45604a2c525177654e1ccfbae2a8716b569fe35b24072d3b3a4016d146aec",
+      "retrievedAt": "2026-11-17T06:47:22.284400+00:00",
+      "status": "imported",
+      "image": "images/Dress/煙紫丁香漢服-05.png",
+      "promptFile": "images/Dress/煙紫丁香漢服-05.md"
+    }
+  ],
+  "imported": 1,
+  "duplicateSkipped": 0
+}

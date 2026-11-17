@@ -1,0 +1,33 @@
+{
+  "source": "https://chatgpt.com/share/6afbf599-2f28-83ee-b49f-22de856d4d7f",
+  "shareId": "6afbf599-2f28-83ee-b49f-22de856d4d7f",
+  "title": "漢服設計描述",
+  "sourceHtmlSHA256": "133d38dc38635b909a589a131dc24c93a226683d6630a8797fef68c8883321e3",
+  "sourceFetchedAt": "2026-11-17T06:47:18.361517+00:00",
+  "taskId": "t_690dcc573d0e49dfb214",
+  "sourceUserPromptCount": 1,
+  "sourceImageReferenceCount": 2,
+  "sourceImageCount": 1,
+  "duplicateCheckScope": "gallery1 only; gallery2 excluded per user instruction",
+  "images": [
+    {
+      "index": 1,
+      "fileId": "file_0000000032ec81faa857fe5066bd45e8",
+      "messageId": "fda338a5-247d-4626-a2b1-438a71282851",
+      "promptMessageId": "bbb21277-22b3-47e9-a432-88a5e5af7fab",
+      "prompt": "服裝主體：以傳統漢服交領窄襦與廣袖為設計原型，將上衣重構成煙紫色與丁香白色交錯的極短版立體衣身。頸部保留窄幅紫銀色交領結構，兩條紫色刺繡斜襟從頸側交叉延伸至胸前，與丁香白色立體胸衣裁片結合，在胸前形成開放式幾何鏤空。胸部以精緻不透明絲綢裁片包覆，胸下使用紫銀色花形扣件與細緻繫帶收束。上衣兩側大面積鏤空，使雙肩、鎖骨、手臂、腹部、側腰及大部分背部自然展露，形成輕盈而富有曲線感的服裝結構。\n\n袖部設計：兩側使用完全獨立於衣身的巨大漢服廣袖，透過淡紫色花形金屬環固定於上臂外側。袖子不與肩膀相連，從上臂向下形成寬大的鐘形垂墜輪廓。廣袖外層為半透明煙紫色歐根紗，內層為淡丁香色薄紗，袖口極為寬大，邊緣呈自然波浪形。袖面繡有淡銀色花枝、紫藤與細緻雲紋，布料延伸至小腿附近，形成華麗而輕盈的獨立懸袖效果。\n\n腰部設計：腰部不使用完整腰封，而是以數條細緻紫銀色繫帶及花形金屬扣件連接上衣與下身裙片。繫帶從胸下向腰側斜向延伸，在腰部形成開放式幾何結構。大片腹部及側腰保持裸露，髖部兩側以紫水晶色鏈飾、細緻花形扣件及垂墜流蘇作為裙片的固定結構。\n\n下身設計：將傳統漢服長裙拆解成前方窄長的丁香白色刺繡裙片，以及左右兩側獨立的煙紫色長裙片。中央裙片由腰部垂直向下延伸，具有細緻花枝刺繡與柔和的不規則下襬，形成修長的縱向線條。兩側裙片從髖部外側向後展開，形成極高的側向開口，大幅展露腰側、髖部外側及雙腿。裙片之間以紫銀色細鏈和繫帶連接，後方則形成多層長至地面的飄逸薄紗裙襬。背面保留細緻交叉繫帶與窄幅裙片連接結構，展現大面積露背效果。\n\n材質及工藝：煙紫色歐根紗、丁香白色真絲、半透明薄紗、淡銀色花卉刺繡、紫水晶金屬配件、立體花形扣件、細緻珠鏈與流蘇。布料質感輕盈，薄紗具有自然透明度及柔順垂墜效果。",
+      "source": "https://chatgpt.com/backend-anon/share/6afbf599-2f28-83ee-b49f-22de856d4d7f/file/file_0000000032ec81faa857fe5066bd45e8",
+      "declaredWidth": 1122,
+      "declaredHeight": 1402,
+      "bytes": 2478923,
+      "mimeType": "image/png",
+      "sha256": "000fc85213cb21fcebc91a3f309c522e532ab722a1bd95764479aa67366bc8ab",
+      "retrievedAt": "2026-11-17T06:47:21.295715+00:00",
+      "status": "imported",
+      "image": "images/Dress/煙紫丁香漢服-01.png",
+      "promptFile": "images/Dress/煙紫丁香漢服-01.md"
+    }
+  ],
+  "imported": 1,
+  "duplicateSkipped": 0
+}

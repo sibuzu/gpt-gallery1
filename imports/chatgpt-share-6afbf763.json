@@ -1,0 +1,33 @@
+{
+  "source": "https://chatgpt.com/share/6afbf763-6bbc-83e8-b7b5-74c2d984f6a1",
+  "shareId": "6afbf763-6bbc-83e8-b7b5-74c2d984f6a1",
+  "title": "生成風景寫真提示詞",
+  "sourceHtmlSHA256": "3eb8dcaf5e0739e8c3c97ddd110923d2549e997250fa2e5c81edaac629935326",
+  "sourceFetchedAt": "2026-11-17T06:47:19.295822+00:00",
+  "taskId": "t_690dcc573d0e49dfb214",
+  "sourceUserPromptCount": 1,
+  "sourceImageReferenceCount": 1,
+  "sourceImageCount": 1,
+  "duplicateCheckScope": "gallery1 only; gallery2 excluded per user instruction",
+  "images": [
+    {
+      "index": 1,
+      "fileId": "file_00000000ebfc820bba34b6d0c6399084",
+      "messageId": "fb67e778-c1b1-4752-94be-05f856c6a54e",
+      "promptMessageId": "84c63a23-99c1-467d-983e-c4dc5eea8b7c",
+      "prompt": "風景寫真 景點(海邊、湖景、森林、庭園、酒站、高塔、太空)隨機\n隨機（高、平、低、極低）專業拍攝視角\n\n東方成年女人\n交領無袖窄襦，煙紫色與丁香白色交錯的極短版上衣。頸部窄幅紫銀色交領，刺繡斜襟從頸側交叉至胸前。\n\n左右兩側獨立的煙紫色短裙。極高的側向開口，背面細緻交叉繫帶。\n\n煙紫色歐根紗、丁香白色真絲、淡銀色花卉刺繡、紫水晶金屬配件。",
+      "source": "https://chatgpt.com/backend-anon/share/6afbf763-6bbc-83e8-b7b5-74c2d984f6a1/file/file_00000000ebfc820bba34b6d0c6399084",
+      "declaredWidth": 1024,
+      "declaredHeight": 1536,
+      "bytes": 2567649,
+      "mimeType": "image/png",
+      "sha256": "f887b41bece91f34f383027d59596ba0df802312f6ee04bc25d9002aab0cae83",
+      "retrievedAt": "2026-11-17T06:47:24.423574+00:00",
+      "status": "imported",
+      "image": "images/Dress/煙紫丁香漢服-07.png",
+      "promptFile": "images/Dress/煙紫丁香漢服-07.md"
+    }
+  ],
+  "imported": 1,
+  "duplicateSkipped": 0
+}

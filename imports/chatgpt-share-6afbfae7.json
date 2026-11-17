@@ -1,0 +1,50 @@
+{
+  "source": "https://chatgpt.com/share/6afbfae7-5f24-83ee-890a-be2476a3f64f",
+  "shareId": "6afbfae7-5f24-83ee-890a-be2476a3f64f",
+  "title": "TSMC GIF Design",
+  "sourceHtmlSHA256": "23817d18bf85e8eb539e5d0f6f3754fe052e67d2f2f2dd532affbd416e0c7adb",
+  "sourceFetchedAt": "2026-11-17T07:03:50.882402+00:00",
+  "taskId": "t_3b43cb6416df4493bfc9",
+  "sourceUserPromptCount": 1,
+  "sourceImageReferenceCount": 1,
+  "sourceImageCount": 1,
+  "duplicateCheckScope": "gallery1 only; gallery2 excluded per user instruction",
+  "images": [
+    {
+      "index": 1,
+      "fileId": "file_00000000c79881fa8568319c7b39f21b",
+      "messageId": "fe026f09-c3ac-4f0d-859e-8d8f57123c55",
+      "promptMessageId": "310a44bc-de0f-4264-935c-7177d728c4ee",
+      "prompt": "Show me what an incredible motion deigner of TSMC you are using gif. go all out.",
+      "source": "https://chatgpt.com/backend-anon/share/6afbfae7-5f24-83ee-890a-be2476a3f64f/file/file_00000000c79881fa8568319c7b39f21b",
+      "declaredWidth": 358,
+      "declaredHeight": 354,
+      "frameCount": 12,
+      "frameDurationMs": [
+        120,
+        120,
+        120,
+        120,
+        120,
+        120,
+        120,
+        120,
+        120,
+        120,
+        120,
+        120
+      ],
+      "loop": 0,
+      "bytes": 461943,
+      "mimeType": "image/gif",
+      "sha256": "2eff1d8bfe7a84513b20652b9bbae20210da05b70bc845e63eca2b056e922182",
+      "retrievedAt": "2026-11-17T07:03:52.328857+00:00",
+      "originalBytesPreserved": true,
+      "status": "imported",
+      "image": "images/奇幻/MotionDesigner-02.gif",
+      "promptFile": "images/奇幻/MotionDesigner-02.md"
+    }
+  ],
+  "imported": 1,
+  "duplicateSkipped": 0
+}

@@ -1,0 +1,45 @@
+{
+  "source": "https://chatgpt.com/s/p_5996bed80e988191bf0229efe4c68db6",
+  "postId": "p_5996bed80e988191bf0229efe4c68db6",
+  "title": "聯發科技晶片能量覺醒",
+  "sourceHtmlSHA256": "52a78391bf51b1d78a253f80f13bacc98c6c4cac8ef63181fbc4744809905130",
+  "sourceFetchedAt": "2026-11-17T07:03:51.619243+00:00",
+  "sourceImageCount": 1,
+  "images": [
+    {
+      "index": 1,
+      "fileId": "file_000000002320820bb000a1c621fd2deb",
+      "promptShareId": "psh_4a1876dcc4a481918f9ac867e40f9d12",
+      "prompt": "Show me what an incredible motion deigner of MediaTek you are, by gif. go all out.",
+      "promptSource": "shared prompt content",
+      "source": "https://chatgpt.com/backend-api/estuary/public_content/enc/eyJpZCI6InBfNTk5NmJlZDgwZTk4ODE5MWJmMDIyOWVmZTRjNjhkYjY6ZmlsZV8wMDAwMDAwMDIzMjA4MjBiYjAwMGExYzYyMWZkMmRlYiIsImdpem1vX2lkIjpudWxsLCJ3aWQiOm51bGwsIm9pZCI6bnVsbCwic2lkIjpudWxsLCJjcyI6bnVsbCwiZm4iOm51bGwsImNkIjpudWxsLCJ0cyI6IjIwNzc0IiwicCI6InB5aSIsImNpZCI6IjEiLCJzaWciOiI1YmYyMTgwODY0YmI5Yjc3NGNmZDRiZDAwN2I1NjhkZGJjNTA0YzEwNDgwYzQ2ZTZjN2VhOTI4YTFmMTBmMDMzIiwidiI6IjAiLCJjZG4iOm51bGwsImNwIjpudWxsLCJtYSI6bnVsbH0=",
+      "declaredWidth": 478,
+      "declaredHeight": 358,
+      "frameCount": 9,
+      "frameDurationMs": [
+        130,
+        130,
+        130,
+        130,
+        130,
+        130,
+        130,
+        130,
+        130
+      ],
+      "loop": 0,
+      "bytes": 496998,
+      "mimeType": "image/gif",
+      "sha256": "e5004dba92efc0f427585516559053dcc2a9c160359c881a71411f8c5d127c6d",
+      "retrievedAt": "2026-11-17T07:03:52.348477+00:00",
+      "originalBytesPreserved": true,
+      "status": "imported",
+      "image": "images/奇幻/MotionDesigner-05.gif",
+      "promptFile": "images/奇幻/MotionDesigner-05.md"
+    }
+  ],
+  "taskId": "t_3b43cb6416df4493bfc9",
+  "duplicateCheckScope": "gallery1 only; gallery2 excluded per user instruction",
+  "imported": 1,
+  "duplicateSkipped": 0
+}

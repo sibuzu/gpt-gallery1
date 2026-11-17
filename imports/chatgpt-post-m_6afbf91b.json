@@ -1,0 +1,34 @@
+{
+  "source": "https://chatgpt.com/s/m_6afbf91b03b4819184ed0bbf6aed7cce",
+  "postId": "m_6afbf91b03b4819184ed0bbf6aed7cce",
+  "title": "櫻花池畔的紫衣佳人",
+  "sourceHtmlSHA256": "1ae790273319e7426d6359525c3d1efb8cdf67d5aaf72319fb69d5dc2a7eda25",
+  "sourceFetchedAt": "2026-11-17T06:53:07.457988+00:00",
+  "taskId": "t_3b43cb6416df4493bfc9",
+  "sourceImageCount": 1,
+  "imported": 1,
+  "duplicateSkipped": 0,
+  "duplicateCheckScope": "gallery1 only; gallery2 excluded per user instruction",
+  "images": [
+    {
+      "index": 1,
+      "fileId": "file_0000000057ac821286c060e91513e51c",
+      "messageId": "68f0061c-9179-49a4-a0e4-eab6bdd960ca",
+      "conversationId": "6afbf849-e5d0-83ee-8efc-ff8600252870",
+      "generationId": "s_9c5d8172f9d08191bcdd5ba24bc2099d",
+      "promptSource": "user-provided in import request",
+      "prompt": "風景寫真 景點(海邊、湖景、森林、庭園、酒站、高塔、太空)隨機\n隨機（高、平、低、極低）專業拍攝視角 9:16\n\n東方成年女人\n交領無袖窄襦，煙紫色與丁香白色交錯的極短版雪紡深V上衣。頸部窄幅紫銀色交領，刺繡斜襟從頸側交叉至胸前。\n\n左右兩側獨立的煙紫色短裙。極高的側向開口，背面細緻交叉繫帶。",
+      "promptFormatting": "Markdown line-break backslashes omitted; line breaks retained",
+      "source": "https://chatgpt.com/backend-api/estuary/public_content/enc/eyJpZCI6Im1fNmFmYmY5MWIwM2I0ODE5MTg0ZWQwYmJmNmFlZDdjY2U6ZmlsZV8wMDAwMDAwMDU3YWM4MjEyODZjMDYwZTkxNTEzZTUxYyIsImdpem1vX2lkIjpudWxsLCJ3aWQiOm51bGwsIm9pZCI6bnVsbCwic2lkIjpudWxsLCJjcyI6bnVsbCwiZm4iOm51bGwsImNkIjpudWxsLCJ0cyI6IjIwNzc0IiwicCI6InB5aSIsImNpZCI6IjEiLCJzaWciOiJjMGJkOTNjMmNkNmFmOTk2ODI3MzBjNzQyODNkZWQyOWRhNjg1YzIyM2E2NzFmNWNmNjlmYWFjYjUyNTE5ZTAxIiwidiI6IjAiLCJjZG4iOm51bGwsImNwIjpudWxsLCJtYSI6bnVsbH0=",
+      "bytes": 2288985,
+      "mimeType": "image/png",
+      "sha256": "6f2f0636905875f1270e4a493ce9da13f9c188c04e851dc59e61f42be4a63a4f",
+      "declaredWidth": 941,
+      "declaredHeight": 1672,
+      "retrievedAt": "2026-11-17T06:53:07.458004+00:00",
+      "status": "imported",
+      "image": "images/Dress/煙紫丁香漢服-19.png",
+      "promptFile": "images/Dress/煙紫丁香漢服-19.md"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Show me what an incredible motion deigner of MediaTek you are, by gif. go all out.

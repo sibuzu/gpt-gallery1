@@ -1,0 +1,50 @@
+{
+  "source": "https://chatgpt.com/share/6afbfa3a-c5ec-83ec-9dc1-19d90f182d3a",
+  "shareId": "6afbfa3a-c5ec-83ec-9dc1-19d90f182d3a",
+  "title": "Create Motion Concept",
+  "sourceHtmlSHA256": "9c0a3d14ce09cad2395b08c5695e9856c3c7a798e54b9e2a8e1e9c14f242c0f3",
+  "sourceFetchedAt": "2026-11-17T07:03:50.873851+00:00",
+  "taskId": "t_3b43cb6416df4493bfc9",
+  "sourceUserPromptCount": 1,
+  "sourceImageReferenceCount": 1,
+  "sourceImageCount": 1,
+  "duplicateCheckScope": "gallery1 only; gallery2 excluded per user instruction",
+  "images": [
+    {
+      "index": 1,
+      "fileId": "file_00000000d2108206bd2410ce4b237b7a",
+      "messageId": "13c59443-8f4b-41e8-8b05-722e7837c53a",
+      "promptMessageId": "713fe258-3ddb-465b-bc09-d4e3ae32ef7b",
+      "prompt": "Show me what an incredible motion deigner you are. go all out.",
+      "source": "https://chatgpt.com/backend-anon/share/6afbfa3a-c5ec-83ec-9dc1-19d90f182d3a/file/file_00000000d2108206bd2410ce4b237b7a",
+      "declaredWidth": 357,
+      "declaredHeight": 358,
+      "frameCount": 12,
+      "frameDurationMs": [
+        110,
+        110,
+        110,
+        110,
+        110,
+        110,
+        110,
+        110,
+        110,
+        110,
+        110,
+        110
+      ],
+      "loop": 0,
+      "bytes": 545083,
+      "mimeType": "image/gif",
+      "sha256": "772d4c4493dc073dcd392729523c92573dbf7d4c11df78785143270e17eeea92",
+      "retrievedAt": "2026-11-17T07:03:52.332407+00:00",
+      "originalBytesPreserved": true,
+      "status": "imported",
+      "image": "images/奇幻/MotionDesigner-01.gif",
+      "promptFile": "images/奇幻/MotionDesigner-01.md"
+    }
+  ],
+  "imported": 1,
+  "duplicateSkipped": 0
+}

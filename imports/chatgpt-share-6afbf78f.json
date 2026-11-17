@@ -1,0 +1,33 @@
+{
+  "source": "https://chatgpt.com/share/6afbf78f-68b0-83e8-b90a-9bb49ab010f5",
+  "shareId": "6afbf78f-68b0-83e8-b90a-9bb49ab010f5",
+  "title": "隨機寫真生成",
+  "sourceHtmlSHA256": "090126d8e1e4dc2efdfe398755979f60491944763095c9809c9c1ac2efb08b64",
+  "sourceFetchedAt": "2026-11-17T06:47:19.752221+00:00",
+  "taskId": "t_690dcc573d0e49dfb214",
+  "sourceUserPromptCount": 1,
+  "sourceImageReferenceCount": 1,
+  "sourceImageCount": 1,
+  "duplicateCheckScope": "gallery1 only; gallery2 excluded per user instruction",
+  "images": [
+    {
+      "index": 1,
+      "fileId": "file_0000000040408211a7da05e2316bc2d2",
+      "messageId": "6fd000cc-26aa-4b4a-b4b4-44c128310452",
+      "promptMessageId": "c380db22-e39c-4619-957d-75fe9a1651b2",
+      "prompt": "風景寫真 景點(海邊、湖景、森林、庭園、酒站、高塔、太空)隨機\n隨機（高、平、低、極低）專業拍攝視角\n\n東方成年女人\n交領無袖窄襦，煙紫色與丁香白色交錯的極短版雪紡深V上衣。頸部窄幅紫銀色交領，刺繡斜襟從頸側交叉至胸前。\n\n左右兩側獨立的煙紫色短裙。極高的側向開口，背面細緻交叉繫帶。",
+      "source": "https://chatgpt.com/backend-anon/share/6afbf78f-68b0-83e8-b90a-9bb49ab010f5/file/file_0000000040408211a7da05e2316bc2d2",
+      "declaredWidth": 1535,
+      "declaredHeight": 1024,
+      "bytes": 2708575,
+      "mimeType": "image/png",
+      "sha256": "9396c2a4c61898186ea195091665b6405eb51987b429c356952a62f4c65c8d6f",
+      "retrievedAt": "2026-11-17T06:47:25.429612+00:00",
+      "status": "imported",
+      "image": "images/Dress/煙紫丁香漢服-10.png",
+      "promptFile": "images/Dress/煙紫丁香漢服-10.md"
+    }
+  ],
+  "imported": 1,
+  "duplicateSkipped": 0
+}

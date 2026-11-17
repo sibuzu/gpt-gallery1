@@ -1,0 +1,50 @@
+{
+  "source": "https://chatgpt.com/share/6afbf79e-e8d4-83ee-ae09-e2d864d3327f",
+  "shareId": "6afbf79e-e8d4-83ee-ae09-e2d864d3327f",
+  "title": "生成寫真提示詞",
+  "sourceHtmlSHA256": "f8733f7935cf74764a7212bfdae5d94437563da1bbccd51317ce8fb8d94eb84c",
+  "sourceFetchedAt": "2026-11-17T06:47:20.014105+00:00",
+  "taskId": "t_690dcc573d0e49dfb214",
+  "sourceUserPromptCount": 2,
+  "sourceImageReferenceCount": 3,
+  "sourceImageCount": 2,
+  "duplicateCheckScope": "gallery1 only; gallery2 excluded per user instruction",
+  "images": [
+    {
+      "index": 1,
+      "fileId": "file_00000000047481fa9aca7d2e138d9713",
+      "messageId": "c3094eac-31ba-4627-95b4-a59521c85944",
+      "promptMessageId": "091de121-a45f-4c6c-a4da-c6f5af4660fb",
+      "prompt": "風景寫真 景點(海邊、湖景、森林、庭園、酒站、高塔、太空)隨機\n隨機（高、平、低、極低）專業拍攝視角\n\n東方成年女人\n交領無袖窄襦，煙紫色與丁香白色交錯的極短版雪紡深V上衣。頸部窄幅紫銀色交領，刺繡斜襟從頸側交叉至胸前。\n\n左右兩側獨立的煙紫色短裙。極高的側向開口，背面細緻交叉繫帶。",
+      "source": "https://chatgpt.com/backend-anon/share/6afbf79e-e8d4-83ee-ae09-e2d864d3327f/file/file_00000000047481fa9aca7d2e138d9713",
+      "declaredWidth": 1536,
+      "declaredHeight": 1024,
+      "bytes": 2179884,
+      "mimeType": "image/png",
+      "sha256": "17b0a81dd09ca6b85b0c5ef453ddc6c88cbccbea7088a8f894a4adecb030e206",
+      "retrievedAt": "2026-11-17T06:47:26.303923+00:00",
+      "status": "imported",
+      "image": "images/Dress/煙紫丁香漢服-11.png",
+      "promptFile": "images/Dress/煙紫丁香漢服-11.md"
+    },
+    {
+      "index": 2,
+      "fileId": "file_00000000cc7882118c5091fd5728e7f0",
+      "messageId": "0c61bd58-244e-4751-8468-4631c7299919",
+      "promptMessageId": "350881fe-4ace-4fe0-a537-c5ada0785b92",
+      "prompt": "風景寫真 景點(海邊、湖景、森林、庭園、酒站、高塔、太空)隨機\n隨機（高、平、低、極低）專業拍攝視角 9:16\n\n東方成年女人\n交領無袖窄襦，煙紫色與丁香白色交錯的極短版雪紡深V上衣。頸部窄幅紫銀色交領，刺繡斜襟從頸側交叉至胸前。\n\n左右兩側獨立的煙紫色短裙。極高的側向開口，背面細緻交叉繫帶。",
+      "source": "https://chatgpt.com/backend-anon/share/6afbf79e-e8d4-83ee-ae09-e2d864d3327f/file/file_00000000cc7882118c5091fd5728e7f0",
+      "declaredWidth": 941,
+      "declaredHeight": 1672,
+      "bytes": 2714401,
+      "mimeType": "image/png",
+      "sha256": "f0d40f0862195f70e2de91ba4f382d59e5f2c8b1ea6b771005db8635617aa803",
+      "retrievedAt": "2026-11-17T06:47:26.573580+00:00",
+      "status": "imported",
+      "image": "images/Dress/煙紫丁香漢服-12.png",
+      "promptFile": "images/Dress/煙紫丁香漢服-12.md"
+    }
+  ],
+  "imported": 2,
+  "duplicateSkipped": 0
+}
