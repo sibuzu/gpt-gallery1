@@ -1,0 +1,34 @@
+{
+  "source": "https://chatgpt.com/share/6afc0396-e0c0-83ee-a5eb-43a6f340ed3e",
+  "shareId": "6afc0396-e0c0-83ee-a5eb-43a6f340ed3e",
+  "title": "風景寫真提示詞",
+  "sourceHtmlSHA256": "130768d8d446dff5cad9ac95e148c29dd6a97ab171db0c39e53330a4f9c4baf6",
+  "sourceFetchedAt": "2026-11-17T07:36:51.849519+00:00",
+  "taskId": "t_233daef2b63d4efd9edb",
+  "sourceUserPromptCount": 4,
+  "sourceImageReferenceCount": 1,
+  "sourceImageCount": 1,
+  "duplicateCheckScope": "gallery1 only; gallery2 excluded per user instruction",
+  "images": [
+    {
+      "index": 1,
+      "fileId": "file_00000000190c820bb2c66013dbe061cb",
+      "messageId": "3e178e29-0ff2-432b-a76a-b9786cb130bb",
+      "promptMessageId": "e5c1d33b-9a2e-4add-844c-0add58c7a3da",
+      "prompt": "風景寫真 景點{摩洛哥舍夫沙萬藍色山城，整座古城建築外牆塗滿深淺交錯的寶藍色與天空藍色，蜿蜒的藍色石造階梯與傳統摩洛哥雕花木門，牆面懸掛繽紛花盆與盛開的桃紅色九重葛，精緻阿拉伯馬賽克磁磚點綴巷弄，午後溫暖陽光灑落藍色古城街道，呈現神秘夢幻又充滿異國藝術氣息的景色}\n\n{專業國際時裝模特兒姿勢，優雅坐於藍色古城寬闊石階上，身體側向鏡頭約45度，腰背自然挺直，一腿沿階梯向下伸展，另一腿輕微彎曲形成交錯線條，一手輕撐身旁石階，另一手優雅放於頸側，肩膀微微後展，頭部輕輕側傾凝視鏡頭，長髮自然垂落肩際，展現慵懶華麗的異國時尚魅力}\n\n{專業攝影視角，階梯下方斜前方45度低機位仰拍，85mm中長焦人像鏡頭，全身直幅構圖，利用深淺藍色牆面與蜿蜒階梯形成強烈幾何透視，桃紅色九重葛作為前景色彩點綴，人物煙紫色與丁香白色服裝和藍色古城形成優雅色彩對比，柔和午後側光與細膩陰影層次，國際精品時尚雜誌封面級攝影} 9:16\n\n東方成年女人\n交領無袖窄襦，煙紫色與丁香白色交錯的極短版雪紡深V上衣。頸部窄幅紫銀色交領，刺繡斜襟從頸側交叉至胸前。極高的側向開口迷你裙，背面細緻交叉繫帶。",
+      "source": "https://chatgpt.com/backend-anon/share/6afc0396-e0c0-83ee-a5eb-43a6f340ed3e/file/file_00000000190c820bb2c66013dbe061cb",
+      "declaredWidth": 941,
+      "declaredHeight": 1672,
+      "bytes": 3012589,
+      "mimeType": "image/png",
+      "sha256": "d8e330561dbfaadddd5acecaffbfb48c2e66663ccf66085c7b8feadcf8f87096",
+      "retrievedAt": "2026-11-17T07:36:52.759783+00:00",
+      "status": "imported",
+      "image": "images/Dress/世界風景-18.png",
+      "promptFile": "images/Dress/世界風景-18.md"
+    }
+  ],
+  "imported": 1,
+  "duplicateSkipped": 0,
+  "previousUserDeletionSkipped": 0
+}
