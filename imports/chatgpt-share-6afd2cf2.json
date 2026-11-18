@@ -1,0 +1,36 @@
+{
+  "source": "https://chatgpt.com/share/6afd2cf2-2590-83ee-a20b-0dd9ab908ea6",
+  "shareId": "6afd2cf2-2590-83ee-a20b-0dd9ab908ea6",
+  "title": "生成冬季溫室人像人體藝術提示詞",
+  "sourceHtmlSHA256": "36e5ef31a7d808d8d896860bf363c0ba7deaa2c6a702bd11c422698511df730b",
+  "sourceFetchedAt": "2026-11-18T04:44:23.998989+00:00",
+  "taskId": "t_6b0337acedcf43a99af9",
+  "sourceUserPromptCount": 1,
+  "sourceImageReferenceCount": 1,
+  "sourceImageCount": 1,
+  "duplicateCheckScope": "gallery1 only; gallery2 excluded per user instruction",
+  "images": [
+    {
+      "index": 1,
+      "fileId": "file_0000000000c0820b9f1cf6a0902af1f4",
+      "messageId": "76561bc9-7818-42d0-8a2e-721988f1beca",
+      "promptMessageId": "ce6dc7d0-28fc-4176-94b5-f9e4d446b5d0",
+      "prompt": "一位 26 歲日本成年年輕女性，精緻自然的東方五官，深棕色及肩短髮，輕盈空氣瀏海，清透淡妝，肌膚呈現真實細膩紋理，氣質安靜而優雅。場景位於北海道冬季的玻璃植物溫室，窗外細雪緩緩飄落，遠方白雪覆蓋松樹，室內有熱帶綠色植物、木製桌椅與溫暖燈光。陰雪天氣，窗外冷色漫射自然光與室內金色柔光交融，玻璃表面有細小水珠。\n\n人物坐在藤編椅上，身體略微側轉，肩膀自然放鬆，一手輕托下巴，另一手搭在椅子扶手上，嘴角帶有細微微笑，眼神溫柔地望向鏡頭。採用胸上照，直式 4:5 構圖，三分之四側面視角，攝影機與人物視線平齊，淺景深營造柔和背景散景。專業時尚人像攝影，85mm 定焦鏡頭，真實皮膚質感，電影級色彩，16K超高清晰度，極致精細編織結構，自然物理光影，真實布料厚度及鏤空穿透效果。\n\n白色，精梳棉混紡針織材質，帶有細緻蓬鬆纖維與低調霧面質感。\n\nOversize 寬鬆剪裁衣服，具有立體、細緻而真實的纖維紋理。\n衣身柔軟垂墜，不緊貼腰部與臀部。領口為寬大的深 V 領設計，採用無肩設計，具有細緻的針織收邊。\n衣身由胸前、肩側、腰部至下襬分布大量圓形與橢圓形的鏤空開孔。\n孔洞尺寸較大，具有規律而自然的幾何排列，部分因針織布料張力與坐姿而呈現略微橢圓的形狀。\n圓孔之間清楚精緻編織結構及真實空間穿透效果。\n大型鏤空開孔可以自然看見衣料內側的部分肌膚，服裝整體具有高級、時尚、自然且得體的透膚設計感。",
+      "source": "https://chatgpt.com/backend-anon/share/6afd2cf2-2590-83ee-a20b-0dd9ab908ea6/file/file_0000000000c0820b9f1cf6a0902af1f4",
+      "declaredWidth": 1122,
+      "declaredHeight": 1402,
+      "bytes": 2807362,
+      "mimeType": "image/png",
+      "sha256": "1c016eccb1aae824848a1ba37662396228098214eefc79473ae4fc3a898af1c7",
+      "retrievedAt": "2026-11-18T04:45:58.901492+00:00",
+      "status": "imported",
+      "image": "images/Dress/針織洞裝-05.png",
+      "promptFile": "images/Dress/針織洞裝-05.md"
+    }
+  ],
+  "selection": "All generated images; no selection restriction specified",
+  "selectedImageCount": 1,
+  "notSelectedCount": 0,
+  "imported": 1,
+  "duplicateSkipped": 0
+}

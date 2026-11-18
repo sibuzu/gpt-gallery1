@@ -1,0 +1,37 @@
+{
+  "source": "https://chatgpt.com/share/6afd2c9b-5ea0-83ee-8f6b-30bba0463f45",
+  "shareId": "6afd2c9b-5ea0-83ee-8f6b-30bba0463f45",
+  "title": "d3",
+  "sourceHtmlSHA256": "d1a13566606e5bce9be52a9733f929d2feec9071019cce446fc892ef53e2b6a9",
+  "sourceFetchedAt": "2026-11-18T04:43:21.010336+00:00",
+  "taskId": "t_6b0337acedcf43a99af9",
+  "sourceUserPromptCount": 2,
+  "sourceImageReferenceCount": 3,
+  "sourceImageCount": 2,
+  "duplicateCheckScope": "gallery1 only; gallery2 excluded per user instruction",
+  "images": [
+    {
+      "index": 2,
+      "fileId": "file_000000006c78821193abb7466616501c",
+      "messageId": "dbfec067-f3f9-4bf7-947d-6e8ce14738e0",
+      "promptMessageId": "bbb21882-3038-4b79-a19f-733b3bd84938",
+      "prompt": "日本女性",
+      "source": "https://chatgpt.com/backend-anon/share/6afd2c9b-5ea0-83ee-8f6b-30bba0463f45/file/file_000000006c78821193abb7466616501c",
+      "declaredWidth": 1024,
+      "declaredHeight": 1536,
+      "lastReferenceMessageId": "dbfec067-f3f9-4bf7-947d-6e8ce14738e0",
+      "bytes": 2364200,
+      "mimeType": "image/png",
+      "sha256": "9490b0c945f2acc6896e48989ceafe1976991877a550f40cef9b1d6f598d118d",
+      "retrievedAt": "2026-11-18T04:43:21.748262+00:00",
+      "status": "imported",
+      "image": "images/Dress/針織洞裝-03.png",
+      "promptFile": "images/Dress/針織洞裝-03.md"
+    }
+  ],
+  "selection": "Only the last generated image in the active conversation branch, per user request",
+  "selectedImageCount": 1,
+  "notSelectedCount": 1,
+  "imported": 1,
+  "duplicateSkipped": 0
+}
