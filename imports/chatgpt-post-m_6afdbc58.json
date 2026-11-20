@@ -1,0 +1,40 @@
+{
+  "source": "https://chatgpt.com/s/m_6afdbc5846848191a9054b270a3eb8b1",
+  "postId": "m_6afdbc5846848191a9054b270a3eb8b1",
+  "title": "海神殿堂中的美人魚蒂蒂絲",
+  "sourceHtmlSHA256": "d352431043174157d3e146cbc406712d22693d76d2c45989cceb02626f3f889e",
+  "sourceFetchedAt": "2026-11-18T15:01:46.159450+00:00",
+  "taskId": "t_ef4347fe29ed48be80ed",
+  "sourceImageCount": 1,
+  "imported": 1,
+  "replacementCount": 1,
+  "duplicateSkipped": 0,
+  "replaces": {
+    "image": "images/奇幻/聖鬥士星矢-06.png",
+    "sha256": "aa45e347cca18b1436558f5167a1f34b95e24780271fa3ade9600c2438857a5d",
+    "fileId": "file_000000003c288211a1cb91e49ab25c5c",
+    "sourceManifest": "imports/chatgpt-share-6afdba31.json"
+  },
+  "images": [
+    {
+      "index": 1,
+      "fileId": "file_00000000022081faa59b7cb025ae46b2",
+      "messageId": "7205fb00-5879-49ab-aa9c-ae26cd2d3ccd",
+      "conversationId": "6afdb012-ba64-83ee-819f-2e8c826c09cd",
+      "character": "美人魚・蒂蒂絲",
+      "source": "https://chatgpt.com/backend-api/estuary/public_content/enc/eyJpZCI6Im1fNmFmZGJjNTg0Njg0ODE5MWE5MDU0YjI3MGEzZWI4YjE6ZmlsZV8wMDAwMDAwMDAyMjA4MWZhYTU5YjdjYjAyNWFlNDZiMiIsImdpem1vX2lkIjpudWxsLCJ3aWQiOm51bGwsIm9pZCI6bnVsbCwic2lkIjpudWxsLCJjcyI6bnVsbCwiZm4iOm51bGwsImNkIjpudWxsLCJ0cyI6IjIwNzc1IiwicCI6InB5aSIsImNpZCI6IjEiLCJzaWciOiIyNTQ5YmQ4Yjg3ZDI1YjRkYTFhNDBiNDJjZDA3YmUzNGU4MmFhZjA3ODg4NDNjYWUzOTFkZjM5MTNjZTVkM2ZkIiwidiI6IjAiLCJjZG4iOm51bGwsImNwIjpudWxsLCJtYSI6bnVsbH0=",
+      "prompt": "黃金海鬥士比基尼鱗衣、粉紅寶石、海洋羽翼頭飾、半透明粉色披風。\n\n場景： 陽光與海浪交織的海皇神殿。\n\n姿勢： 優雅站立，一腳微向前，單手輕撫金髮，展現高貴柔美氣質。\n\n右下角：美人魚・蒂蒂絲",
+      "promptSource": "User-provided replacement prompt",
+      "promptFormatting": "Markdown line-break backslashes omitted; line breaks retained",
+      "bytes": 2935682,
+      "mimeType": "image/png",
+      "sha256": "5357619edb03c9e3476eb3b98be7f3330ea19b441d792abb30598b56e8dbb74a",
+      "declaredWidth": 941,
+      "declaredHeight": 1672,
+      "retrievedAt": "2026-11-18T15:01:46.159450+00:00",
+      "status": "imported",
+      "image": "images/奇幻/聖鬥士星矢-06.png",
+      "promptFile": "images/奇幻/聖鬥士星矢-06.md"
+    }
+  ]
+}
