@@ -2557,7 +2557,7 @@ window.__GALLERY_IMAGES__ = [
     "hasDescription": true,
     "title": "居家背心-10",
     "width": 941,
-    "height": 1671
+    "height": 1672
   },
   {
     "category": "日常",
@@ -4596,8 +4596,8 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/Dress/居家背心-11.png",
     "hasDescription": true,
     "title": "居家背心-11",
-    "width": 940,
-    "height": 1672
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "Theme",
@@ -4828,8 +4828,8 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/Dress/居家背心-06.png",
     "hasDescription": true,
     "title": "居家背心-06",
-    "width": 1312,
-    "height": 1199
+    "width": 1216,
+    "height": 1294
   },
   {
     "category": "Folk",
@@ -5108,8 +5108,8 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/Dress/居家背心-03.png",
     "hasDescription": true,
     "title": "居家背心-03",
-    "width": 1216,
-    "height": 1293
+    "width": 1122,
+    "height": 1402
   },
   {
     "category": "日常",
@@ -5252,8 +5252,8 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/Dress/居家背心-07.png",
     "hasDescription": true,
     "title": "居家背心-07",
-    "width": 941,
-    "height": 1672
+    "width": 1312,
+    "height": 1199
   },
   {
     "category": "日常",
@@ -5796,8 +5796,8 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/Dress/居家背心-01.png",
     "hasDescription": true,
     "title": "居家背心-01",
-    "width": 1216,
-    "height": 1293
+    "width": 940,
+    "height": 1672
   },
   {
     "category": "Theme",
@@ -7348,8 +7348,8 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/Dress/居家背心-02.png",
     "hasDescription": true,
     "title": "居家背心-02",
-    "width": 1122,
-    "height": 1402
+    "width": 1216,
+    "height": 1293
   },
   {
     "category": "Dress",
@@ -9173,7 +9173,7 @@ window.__GALLERY_IMAGES__ = [
     "hasDescription": true,
     "title": "居家背心-04",
     "width": 1216,
-    "height": 1294
+    "height": 1293
   },
   {
     "category": "Theme",

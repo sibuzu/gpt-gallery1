@@ -30,8 +30,11 @@
       "sha256": "36245f7c51f9fb4dd7954dfe78363aa681accc7d2e1cd0e0d9a489a05090a236",
       "retrievedAt": "2026-11-22T12:38:30.579018+00:00",
       "status": "imported",
-      "image": "images/Dress/居家背心-01.png",
-      "promptFile": "images/Dress/居家背心-01.md"
+      "image": "images/Dress/居家背心-02.png",
+      "promptFile": "images/Dress/居家背心-02.md",
+      "renamedFrom": "images/Dress/居家背心-01.png",
+      "promptRenamedFrom": "images/Dress/居家背心-01.md",
+      "displayNumber": 2
     },
     {
       "index": 2,
@@ -48,8 +51,11 @@
       "sha256": "4b480a866d3446deedc7980466f2ece386f5d9413ca8f39efea4041c7ec8d477",
       "retrievedAt": "2026-11-22T12:38:30.703767+00:00",
       "status": "imported",
-      "image": "images/Dress/居家背心-02.png",
-      "promptFile": "images/Dress/居家背心-02.md"
+      "image": "images/Dress/居家背心-03.png",
+      "promptFile": "images/Dress/居家背心-03.md",
+      "renamedFrom": "images/Dress/居家背心-02.png",
+      "promptRenamedFrom": "images/Dress/居家背心-02.md",
+      "displayNumber": 3
     },
     {
       "index": 3,
@@ -66,8 +72,11 @@
       "sha256": "f4816f1b0ac46e65ba0e2a87b3b548541ab126240fb103e11df8a10f025bdd88",
       "retrievedAt": "2026-11-22T12:38:31.049757+00:00",
       "status": "imported",
-      "image": "images/Dress/居家背心-03.png",
-      "promptFile": "images/Dress/居家背心-03.md"
+      "image": "images/Dress/居家背心-04.png",
+      "promptFile": "images/Dress/居家背心-04.md",
+      "renamedFrom": "images/Dress/居家背心-03.png",
+      "promptRenamedFrom": "images/Dress/居家背心-03.md",
+      "displayNumber": 4
     },
     {
       "index": 4,
@@ -84,8 +93,11 @@
       "sha256": "031902940db4d3ff71df0f3914ae305c067d2b25d0bff32f2b3f3224094a56c7",
       "retrievedAt": "2026-11-22T12:38:31.216934+00:00",
       "status": "imported",
-      "image": "images/Dress/居家背心-04.png",
-      "promptFile": "images/Dress/居家背心-04.md"
+      "image": "images/Dress/居家背心-05.png",
+      "promptFile": "images/Dress/居家背心-05.md",
+      "renamedFrom": "images/Dress/居家背心-04.png",
+      "promptRenamedFrom": "images/Dress/居家背心-04.md",
+      "displayNumber": 5
     },
     {
       "index": 5,
@@ -102,8 +114,11 @@
       "sha256": "4e003a0874a6872f691293560241785671d91debc6f74db0e7241eb48307f5d3",
       "retrievedAt": "2026-11-22T12:38:31.454417+00:00",
       "status": "imported",
-      "image": "images/Dress/居家背心-05.png",
-      "promptFile": "images/Dress/居家背心-05.md"
+      "image": "images/Dress/居家背心-06.png",
+      "promptFile": "images/Dress/居家背心-06.md",
+      "renamedFrom": "images/Dress/居家背心-05.png",
+      "promptRenamedFrom": "images/Dress/居家背心-05.md",
+      "displayNumber": 6
     },
     {
       "index": 6,
@@ -120,8 +135,11 @@
       "sha256": "0fdb14f072009659b8fdc1adbc0a2a892defc05125c44cb9113e3fe9ec9def2a",
       "retrievedAt": "2026-11-22T12:38:31.905713+00:00",
       "status": "imported",
-      "image": "images/Dress/居家背心-06.png",
-      "promptFile": "images/Dress/居家背心-06.md"
+      "image": "images/Dress/居家背心-07.png",
+      "promptFile": "images/Dress/居家背心-07.md",
+      "renamedFrom": "images/Dress/居家背心-06.png",
+      "promptRenamedFrom": "images/Dress/居家背心-06.md",
+      "displayNumber": 7
     },
     {
       "index": 7,
@@ -138,8 +156,11 @@
       "sha256": "f0725b0ec8b72d48db59108d5e23900128b3dee4ec3c4424b384abe4ee8b37c4",
       "retrievedAt": "2026-11-22T12:38:32.226164+00:00",
       "status": "imported",
-      "image": "images/Dress/居家背心-07.png",
-      "promptFile": "images/Dress/居家背心-07.md"
+      "image": "images/Dress/居家背心-08.png",
+      "promptFile": "images/Dress/居家背心-08.md",
+      "renamedFrom": "images/Dress/居家背心-07.png",
+      "promptRenamedFrom": "images/Dress/居家背心-07.md",
+      "displayNumber": 8
     },
     {
       "index": 8,
@@ -156,8 +177,11 @@
       "sha256": "2175a591220849c8140aaf3e306a91a6968d7b7986f802be658eb18307af91c1",
       "retrievedAt": "2026-11-22T12:38:32.308842+00:00",
       "status": "imported",
-      "image": "images/Dress/居家背心-08.png",
-      "promptFile": "images/Dress/居家背心-08.md"
+      "image": "images/Dress/居家背心-09.png",
+      "promptFile": "images/Dress/居家背心-09.md",
+      "renamedFrom": "images/Dress/居家背心-08.png",
+      "promptRenamedFrom": "images/Dress/居家背心-08.md",
+      "displayNumber": 9
     },
     {
       "index": 9,
@@ -174,8 +198,11 @@
       "sha256": "58c70346b4f094d6d59ffe9c3c91700338f55c4e91f4aab7974c6a632bd17804",
       "retrievedAt": "2026-11-22T12:38:32.478584+00:00",
       "status": "imported",
-      "image": "images/Dress/居家背心-09.png",
-      "promptFile": "images/Dress/居家背心-09.md"
+      "image": "images/Dress/居家背心-10.png",
+      "promptFile": "images/Dress/居家背心-10.md",
+      "renamedFrom": "images/Dress/居家背心-09.png",
+      "promptRenamedFrom": "images/Dress/居家背心-09.md",
+      "displayNumber": 10
     },
     {
       "index": 10,
@@ -192,8 +219,11 @@
       "sha256": "d2ac3b10313f7213a181992132a488a346419119bbecb07c5548ddd4617aac6d",
       "retrievedAt": "2026-11-22T12:38:32.927898+00:00",
       "status": "imported",
-      "image": "images/Dress/居家背心-10.png",
-      "promptFile": "images/Dress/居家背心-10.md"
+      "image": "images/Dress/居家背心-11.png",
+      "promptFile": "images/Dress/居家背心-11.md",
+      "renamedFrom": "images/Dress/居家背心-10.png",
+      "promptRenamedFrom": "images/Dress/居家背心-10.md",
+      "displayNumber": 11
     },
     {
       "index": 11,
@@ -210,8 +240,11 @@
       "sha256": "2ffc9be9beb8b2ad032295aa81ac9e2cf436a237611bfdd75e7338539828925d",
       "retrievedAt": "2026-11-22T12:38:34.151254+00:00",
       "status": "imported",
-      "image": "images/Dress/居家背心-11.png",
-      "promptFile": "images/Dress/居家背心-11.md"
+      "image": "images/Dress/居家背心-01.png",
+      "promptFile": "images/Dress/居家背心-01.md",
+      "renamedFrom": "images/Dress/居家背心-11.png",
+      "promptRenamedFrom": "images/Dress/居家背心-11.md",
+      "displayNumber": 1
     },
     {
       "index": 12,
@@ -229,7 +262,8 @@
       "retrievedAt": "2026-11-22T12:38:33.179320+00:00",
       "status": "imported",
       "image": "images/Dress/居家背心-12.png",
-      "promptFile": "images/Dress/居家背心-12.md"
+      "promptFile": "images/Dress/居家背心-12.md",
+      "displayNumber": 12
     },
     {
       "index": 13,
@@ -247,7 +281,8 @@
       "retrievedAt": "2026-11-22T12:38:34.103038+00:00",
       "status": "imported",
       "image": "images/Dress/居家背心-13.png",
-      "promptFile": "images/Dress/居家背心-13.md"
+      "promptFile": "images/Dress/居家背心-13.md",
+      "displayNumber": 13
     },
     {
       "index": 14,
@@ -265,7 +300,8 @@
       "retrievedAt": "2026-11-22T12:38:34.401222+00:00",
       "status": "imported",
       "image": "images/Dress/居家背心-14.png",
-      "promptFile": "images/Dress/居家背心-14.md"
+      "promptFile": "images/Dress/居家背心-14.md",
+      "displayNumber": 14
     },
     {
       "index": 15,
@@ -283,7 +319,8 @@
       "retrievedAt": "2026-11-22T12:38:35.141297+00:00",
       "status": "imported",
       "image": "images/Dress/居家背心-15.png",
-      "promptFile": "images/Dress/居家背心-15.md"
+      "promptFile": "images/Dress/居家背心-15.md",
+      "displayNumber": 15
     },
     {
       "index": 16,
@@ -301,7 +338,10 @@
       "retrievedAt": "2026-11-22T12:38:35.078648+00:00",
       "status": "imported",
       "image": "images/Dress/居家背心-16.png",
-      "promptFile": "images/Dress/居家背心-16.md"
+      "promptFile": "images/Dress/居家背心-16.md",
+      "displayNumber": 16
     }
-  ]
+  ],
+  "numberingUpdatedAt": "2026-11-22T12:59:07.898996+00:00",
+  "numberingRule": "Move original 11 to 01; original 01–10 shift to 02–11; original 12–16 retain their numbers."
 }
