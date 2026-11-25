@@ -1,0 +1,50 @@
+{
+  "source": "https://chatgpt.com/share/6b041111-c7e4-83ec-bace-ea70cb88640f",
+  "shareId": "6b041111-c7e4-83ec-bace-ea70cb88640f",
+  "title": "外送女性描述",
+  "sourceJsonSHA256": "9bde2d67909bdf61c51edd9b344eefce495c1897d7a3aafd590498d5db08a5c6",
+  "sourceFetchedAt": "2026-11-23T10:11:14.148708+00:00",
+  "taskId": "t_468b327df1bd433591ad",
+  "category": "Dress",
+  "basename": "一字領裙_寬鬆",
+  "duplicateCheckScope": "images/Dress/一字領裙_寬鬆",
+  "selection": "Scan from the end and stop at the first matching image in the existing series",
+  "checkedImageReferenceCount": 2,
+  "boundary": {
+    "fileId": "file_0000000048c881fa9c1cf0cb2a7a2e36",
+    "messageId": "be5d9686-01e5-4706-a214-60c0824ad372",
+    "source": "https://chatgpt.com/backend-anon/share/6b041111-c7e4-83ec-bace-ea70cb88640f/file/file_0000000048c881fa9c1cf0cb2a7a2e36",
+    "declaredWidth": 1199,
+    "declaredHeight": 1312,
+    "declaredBytes": 2204014,
+    "mimeType": "image/png",
+    "bytes": 2204014,
+    "sha256": "39c972c12f398881ef2f6a2c4e8252393ff30e87c2c71111b6679d152fee5472",
+    "retrievedAt": "2026-11-23T10:11:38.279593+00:00",
+    "matchedImage": "images/Dress/一字領裙_寬鬆-75.png",
+    "matchMethod": "sha256"
+  },
+  "selectedImageCount": 1,
+  "repeatedTailReferenceCount": 0,
+  "imported": 1,
+  "images": [
+    {
+      "fileId": "file_00000000132c81faa9d4d7c0327d1db6",
+      "messageId": "50fa1ed8-d280-4652-b5fd-f3dd7d068153",
+      "source": "https://chatgpt.com/backend-anon/share/6b041111-c7e4-83ec-bace-ea70cb88640f/file/file_00000000132c81faa9d4d7c0327d1db6",
+      "declaredWidth": 1199,
+      "declaredHeight": 1312,
+      "declaredBytes": 2482222,
+      "mimeType": "image/png",
+      "bytes": 2482222,
+      "sha256": "92460142372804a45d76a9508b0d627274e4edef0ada31673802a6621cb5718a",
+      "retrievedAt": "2026-11-23T10:11:37.454446+00:00",
+      "promptMessageId": "21c2b12d-9697-4384-bd00-4319cd6f6b57",
+      "prompt": "20歲的東亞年輕女性，身穿腰部大面積露空，寬鬆白色一字領迷你連身裙。水神。",
+      "index": 1,
+      "status": "imported",
+      "image": "images/Dress/一字領裙_寬鬆-76.png",
+      "promptFile": "images/Dress/一字領裙_寬鬆-76.md"
+    }
+  ]
+}

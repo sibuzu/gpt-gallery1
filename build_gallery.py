@@ -8,6 +8,7 @@ import time
 from pathlib import Path
 
 from PIL import Image
+from image_chronology import ImageChronology, timestamp
 
 
 ROOT = Path(__file__).resolve().parent
@@ -329,12 +330,18 @@ def normalize_number_padding() -> int:
     return renamed
 
 
-def digest(path: Path) -> str:
+def image_hashes(path: Path) -> tuple[str, str]:
     hash_value = hashlib.sha256()
+    git_blob = hashlib.sha1(f"blob {path.stat().st_size}\0".encode("ascii"))
     with path.open("rb") as file:
         for chunk in iter(lambda: file.read(1024 * 1024), b""):
             hash_value.update(chunk)
-    return hash_value.hexdigest()
+            git_blob.update(chunk)
+    return hash_value.hexdigest(), git_blob.hexdigest()
+
+
+def digest(path: Path) -> str:
+    return image_hashes(path)[0]
 
 
 def title_for(path: Path) -> str:
@@ -352,6 +359,7 @@ def scan_gallery_images(site_dir: Path = GALLERY_SITE_DIR) -> tuple[list[dict[st
     items: list[dict[str, str]] = []
     skipped: list[dict[str, str]] = []
     seen: dict[str, str] = {}
+    chronology = ImageChronology(site_dir)
 
     for category_dir in category_dirs(site_dir / "images"):
         files = sorted(
@@ -360,7 +368,8 @@ def scan_gallery_images(site_dir: Path = GALLERY_SITE_DIR) -> tuple[list[dict[st
         )
 
         for path in files:
-            hash_value = digest(path)
+            hash_value, git_blob = image_hashes(path)
+            addition = chronology.addition(path, hash_value, git_blob)
             relative_path = path.relative_to(site_dir).as_posix()
             if hash_value in seen:
                 skipped.append({
@@ -377,9 +386,11 @@ def scan_gallery_images(site_dir: Path = GALLERY_SITE_DIR) -> tuple[list[dict[st
                 "hasDescription": path.with_suffix(".md").exists(),
                 "title": title_for(path),
                 **image_dimensions(path),
+                **addition,
             })
 
-    items.sort(key=lambda item: hashlib.sha256(item["src"].encode("utf-8")).hexdigest())
+    chronology.save()
+    items.sort(key=lambda item: (-timestamp(item["addedAt"]), -item["addedOrder"], item["src"]))
 
     category_counts: dict[str, int] = {}
     for item in items:

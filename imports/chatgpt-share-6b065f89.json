@@ -1,0 +1,54 @@
+{
+  "source": "https://chatgpt.com/share/6b065f89-7cc4-83e8-b1fb-b0ef08a31862",
+  "shareId": "6b065f89-7cc4-83e8-b1fb-b0ef08a31862",
+  "title": "陶藝穿搭描述",
+  "category": "Dress",
+  "basename": "陶藝創作",
+  "sourceJsonSHA256": "31f007739d9c4b27c4a4dc93565f5554d02d844836848c82932e27fb13e14b0c",
+  "sourceFetchedAt": "2026-11-25T04:13:07.363616+00:00",
+  "taskId": "t_0765eadb381442baa1c8",
+  "selection": "first generated image only; restriction applies to this link only",
+  "sourceImageReferenceCount": 4,
+  "sourceImageCount": 2,
+  "checkedIndices": [
+    1
+  ],
+  "duplicateCheckScope": "gallery1 only; gallery2 excluded",
+  "imported": 1,
+  "duplicateSkipped": 0,
+  "notSelectedCount": 1,
+  "assumedExistingPrefixCount": 0,
+  "boundary": null,
+  "images": [
+    {
+      "index": 1,
+      "fileId": "file_000000008b14820bbf96d005713693a7",
+      "messageId": "2eaa8c6a-14f9-48fb-8664-97ee606ea6a4",
+      "promptMessageId": "d8525da5-3a41-4946-9c5e-147e0eab470d",
+      "prompt": "東方女生，迷你裙： 短版迷你、低腰、鋸齒裙襬、雙側開衩、雪紡、單層、隱形拉鍊、修身\n上衣: 繞頸露背上衣。  正在作ろくろ陶藝體驗，身上、衣服有少許泥土",
+      "source": "https://chatgpt.com/backend-anon/share/6b065f89-7cc4-83e8-b1fb-b0ef08a31862/file/file_000000008b14820bbf96d005713693a7",
+      "declaredWidth": 1122,
+      "declaredHeight": 1402,
+      "bytes": 2164488,
+      "sha256": "27955294bebfe863bc70e1e28a2ead9449a624171509722a3b439d3c277d2251",
+      "mimeType": "image/png",
+      "retrievedAt": "2026-11-25T04:15:28.247114+00:00",
+      "status": "imported",
+      "image": "images/Dress/陶藝創作-01.png",
+      "promptFile": "images/Dress/陶藝創作-01.md",
+      "addedAt": "2026-11-25T04:15:28.248642+00:00",
+      "addedOrder": 1
+    },
+    {
+      "index": 2,
+      "fileId": "file_000000000ff4820699c7add84edf4522",
+      "messageId": "64b4a88f-a1c8-4261-a36d-560e35429f56",
+      "promptMessageId": "241e925b-25e4-4492-9ff0-9b0fbddb97af",
+      "prompt": "主色： 薄荷綠｜輔色： 奶油白｜點綴： 檸檬黃\n迷你裙： 短版迷你、中腰、花瓣裙襬、無開衩、絲緞、蝴蝶結、直筒\n上衣: 繞頸露背上衣。\n東方女生，正在作ろくろ陶藝體驗，身上、衣服有少許泥土",
+      "source": "https://chatgpt.com/backend-anon/share/6b065f89-7cc4-83e8-b1fb-b0ef08a31862/file/file_000000000ff4820699c7add84edf4522",
+      "declaredWidth": 1122,
+      "declaredHeight": 1402,
+      "status": "not_selected"
+    }
+  ]
+}

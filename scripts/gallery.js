@@ -179,15 +179,23 @@ function observeCardImages() {
       }
 
       return order.map((key) => {
-        const groupImages = groups.get(key).sort((left, right) => {
-          const leftKey = variantKey(left.title || left.src);
-          const rightKey = variantKey(right.title || right.src);
-          return String(leftKey[0]).localeCompare(String(rightKey[0]), "zh-Hant")
-            || Number(leftKey[1]) - Number(rightKey[1])
-            || String(leftKey[2]).localeCompare(String(rightKey[2]), "zh-Hant");
-        });
+        const groupImages = groups.get(key).sort(newestAdditionFirst);
         return { key, images: groupImages };
-      });
+      }).sort((left, right) => newestAdditionFirst(left.images[0], right.images[0]));
+    }
+
+    function newestAdditionFirst(left, right) {
+      const leftDate = Date.parse(left.addedAt) || 0;
+      const rightDate = Date.parse(right.addedAt) || 0;
+      const byDate = rightDate - leftDate || Number(right.addedOrder || 0) - Number(left.addedOrder || 0);
+      if (byDate) return byDate;
+      // The initial bulk import has no individual timestamps. Keep equal-date
+      // ties deterministic, with later numbered variants first.
+      const leftKey = variantKey(left.title || left.src);
+      const rightKey = variantKey(right.title || right.src);
+      return String(rightKey[0]).localeCompare(String(leftKey[0]), "zh-Hant")
+        || Number(rightKey[1]) - Number(leftKey[1])
+        || String(left.src).localeCompare(String(right.src), "zh-Hant");
     }
 
     function displayItemsFor(groups) {
