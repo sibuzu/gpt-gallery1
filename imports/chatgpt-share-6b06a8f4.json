@@ -1,0 +1,43 @@
+{
+  "source": "https://chatgpt.com/share/6b06a8f4-b1a4-83e8-a7a0-3eedde21c4a3",
+  "shareId": "6b06a8f4-b1a4-83e8-a7a0-3eedde21c4a3",
+  "title": "時尚肖像生成",
+  "category": "Dress",
+  "basename": "泡泡服",
+  "sourceJsonSHA256": "537a06ce38819c9529c87ebd4d08cdeda2fa2675a1cc4e0dcc8e2e24d6acb10d",
+  "sourceFetchedAt": "2026-11-25T09:30:18.054668+00:00",
+  "taskId": "t_e8f8a4166ada487799cf",
+  "selection": "all generated images; check from the end and stop at the first existing gallery1 image",
+  "sourceImageReferenceCount": 2,
+  "sourceImageCount": 1,
+  "checkedIndices": [
+    1
+  ],
+  "duplicateCheckScope": "gallery1 only; gallery2 excluded",
+  "imported": 1,
+  "duplicateSkipped": 0,
+  "notSelectedCount": 0,
+  "assumedExistingPrefixCount": 0,
+  "boundary": null,
+  "images": [
+    {
+      "index": 1,
+      "fileId": "file_00000000487c81faa9e151257e364e54",
+      "messageId": "a3155c3e-ffb0-4013-bea3-1a9b6b3ebd69",
+      "promptMessageId": "bbb21fae-7d44-46e3-a908-b330082976ff",
+      "prompt": "Ultra-realistic fashion editorial portrait of a beautiful 25-year-old adult East Asian woman, short black bob haircut, slightly wet hair, wispy bangs, dewy luminous skin, delicate natural makeup, soft pink lips, elegant dreamy expression, looking slightly upward and away from the camera.\n \nWearing an extravagant haute couture bubble dress made of delicate white soap foam and translucent iridescent bubbles, sculptural foam shoulder straps, V-neck silhouette, opaque lining, voluminous bubble skirt, pearlescent rainbow reflections.\n \nLeaning slightly forward, relaxed arms, graceful shoulders, floating soap bubbles surrounding her, minimalist cool gray studio background, soft diffused studio lighting, cinematic lighting, realistic skin texture, glossy skin, shallow depth of field, luxury fashion photography, ethereal atmosphere, photorealistic, ultra-detailed, 8K, 85mm portrait lens, vertical composition, 2:3 aspect ratio, no text, no watermark.",
+      "source": "https://chatgpt.com/backend-anon/share/6b06a8f4-b1a4-83e8-a7a0-3eedde21c4a3/file/file_00000000487c81faa9e151257e364e54",
+      "declaredWidth": 1024,
+      "declaredHeight": 1536,
+      "bytes": 2173824,
+      "sha256": "0970c7f9619d9e7d73f2dfd160e13952f032b3309f5743966b1969533a5d4165",
+      "mimeType": "image/png",
+      "retrievedAt": "2026-11-25T09:36:14.179952+00:00",
+      "status": "imported",
+      "image": "images/Dress/泡泡服-01.png",
+      "promptFile": "images/Dress/泡泡服-01.md",
+      "addedAt": "2026-11-25T09:36:14.181886+00:00",
+      "addedOrder": 1
+    }
+  ]
+}

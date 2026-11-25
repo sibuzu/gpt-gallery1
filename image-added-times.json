@@ -2041,6 +2041,12 @@
       "source": "git_first_seen",
       "sha256": "325fdc1581f940475e6b38633df1a9bca14037d023c38f8f73f69d2bfdec4a61"
     },
+    "images/Dress/泡泡服-01.png": {
+      "addedAt": "2026-11-25T09:36:14.181886+00:00",
+      "addedOrder": 1,
+      "source": "import:chatgpt-share-6b06a8f4.json",
+      "sha256": "0970c7f9619d9e7d73f2dfd160e13952f032b3309f5743966b1969533a5d4165"
+    },
     "images/Dress/海洋a-01.png": {
       "addedAt": "2026-11-02T06:33:38.000000+00:00",
       "addedOrder": 0,
