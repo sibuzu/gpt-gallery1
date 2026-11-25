@@ -5323,6 +5323,30 @@
       "source": "import:chatgpt-share-6b064a09.json",
       "sha256": "57996964afddb27e3bc396e8fc255d46830d44f54570e9110c0051ed0d4d44db"
     },
+    "images/Dress/靠牆坐地-07.png": {
+      "addedAt": "2026-11-25T04:23:08.586305+00:00",
+      "addedOrder": 7,
+      "source": "import:chatgpt-share-6b066221.json",
+      "sha256": "d4c773112c30bc40f0a3113cdbbdcc63af2b24246a2052a99e326d92ab2e4c23"
+    },
+    "images/Dress/靠牆坐地-08.png": {
+      "addedAt": "2026-11-25T04:23:08.588141+00:00",
+      "addedOrder": 8,
+      "source": "import:chatgpt-share-6b066221.json",
+      "sha256": "5db926ee7dd1eaa23655f8158ce0ab978edb8aec2d7ab841c2c4ad198c2efed3"
+    },
+    "images/Dress/靠牆坐地-09.png": {
+      "addedAt": "2026-11-25T04:23:08.589728+00:00",
+      "addedOrder": 9,
+      "source": "import:chatgpt-share-6b066221.json",
+      "sha256": "2cf7002993e579dc38424f16c3c586c77ed7f2e6158a4772bbaaecfa4f8909b1"
+    },
+    "images/Dress/靠牆坐地-10.png": {
+      "addedAt": "2026-11-25T04:23:08.591085+00:00",
+      "addedOrder": 10,
+      "source": "import:chatgpt-share-6b066221.json",
+      "sha256": "8cb344ab4c3aa78f1acec933258b92c14e673bbe9206bbe48ef292cf41109b33"
+    },
     "images/Folk/中國旗袍a-01.png": {
       "addedAt": "2026-11-02T06:35:53.000000+00:00",
       "addedOrder": 0,

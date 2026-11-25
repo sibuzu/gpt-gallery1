@@ -1,6 +1,46 @@
 window.__GALLERY_IMAGES__ = [
   {
     "category": "Dress",
+    "src": "images/Dress/靠牆坐地-10.png",
+    "hasDescription": true,
+    "title": "靠牆坐地-10",
+    "width": 1086,
+    "height": 1448,
+    "addedAt": "2026-11-25T04:23:08.591085+00:00",
+    "addedOrder": 10
+  },
+  {
+    "category": "Dress",
+    "src": "images/Dress/靠牆坐地-09.png",
+    "hasDescription": true,
+    "title": "靠牆坐地-09",
+    "width": 1086,
+    "height": 1448,
+    "addedAt": "2026-11-25T04:23:08.589728+00:00",
+    "addedOrder": 9
+  },
+  {
+    "category": "Dress",
+    "src": "images/Dress/靠牆坐地-08.png",
+    "hasDescription": true,
+    "title": "靠牆坐地-08",
+    "width": 1122,
+    "height": 1402,
+    "addedAt": "2026-11-25T04:23:08.588141+00:00",
+    "addedOrder": 8
+  },
+  {
+    "category": "Dress",
+    "src": "images/Dress/靠牆坐地-07.png",
+    "hasDescription": true,
+    "title": "靠牆坐地-07",
+    "width": 1122,
+    "height": 1402,
+    "addedAt": "2026-11-25T04:23:08.586305+00:00",
+    "addedOrder": 7
+  },
+  {
+    "category": "Dress",
     "src": "images/Dress/生活化-18.png",
     "hasDescription": true,
     "title": "生活化-18",
