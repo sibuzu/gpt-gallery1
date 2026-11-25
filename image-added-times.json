@@ -2047,6 +2047,12 @@
       "source": "import:chatgpt-share-6b06a8f4.json",
       "sha256": "0970c7f9619d9e7d73f2dfd160e13952f032b3309f5743966b1969533a5d4165"
     },
+    "images/Dress/泡泡服-02.png": {
+      "addedAt": "2026-11-25T10:02:01.681425+00:00",
+      "addedOrder": 1,
+      "source": "import:chatgpt-share-6b06b1b9.json",
+      "sha256": "d3452350ae8837d9f3ee2c98e4024a23c3943d6dabecea904a8c8881e53e51df"
+    },
     "images/Dress/海洋a-01.png": {
       "addedAt": "2026-11-02T06:33:38.000000+00:00",
       "addedOrder": 0,

@@ -1,6 +1,16 @@
 window.__GALLERY_IMAGES__ = [
   {
     "category": "Dress",
+    "src": "images/Dress/泡泡服-02.png",
+    "hasDescription": true,
+    "title": "泡泡服-02",
+    "width": 1199,
+    "height": 1312,
+    "addedAt": "2026-11-25T10:02:01.681425+00:00",
+    "addedOrder": 1
+  },
+  {
+    "category": "Dress",
     "src": "images/Dress/泡泡服-01.png",
     "hasDescription": true,
     "title": "泡泡服-01",

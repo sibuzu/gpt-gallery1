@@ -1,0 +1,43 @@
+{
+  "source": "https://chatgpt.com/share/6b06b1b9-7718-83e8-9fae-ebfd67c4978f",
+  "shareId": "6b06b1b9-7718-83e8-9fae-ebfd67c4978f",
+  "title": "泡泡服裝轉化",
+  "category": "Dress",
+  "basename": "泡泡服",
+  "sourceJsonSHA256": "31ea03619882d0580525ac00974a2550b08cdc750b5fc656739190641a68f69a",
+  "sourceFetchedAt": "2026-11-25T10:01:31.807177+00:00",
+  "taskId": "t_2220f2cac1f34ad5b8e5",
+  "selection": "all generated images; check from the end and stop at the first existing gallery1 image",
+  "sourceImageReferenceCount": 1,
+  "sourceImageCount": 1,
+  "checkedIndices": [
+    1
+  ],
+  "duplicateCheckScope": "gallery1 only; gallery2 excluded",
+  "imported": 1,
+  "duplicateSkipped": 0,
+  "notSelectedCount": 0,
+  "assumedExistingPrefixCount": 0,
+  "boundary": null,
+  "images": [
+    {
+      "index": 1,
+      "fileId": "file_000000003c18821185b2a816c634b028",
+      "messageId": "6d41c239-6d76-432b-9b81-d93d58390087",
+      "promptMessageId": "7bef045b-5aa6-47e1-b088-344445f0cd81",
+      "prompt": "好，請生圖，泡泡不能太規則，自然的泡泡",
+      "source": "https://chatgpt.com/backend-anon/share/6b06b1b9-7718-83e8-9fae-ebfd67c4978f/file/file_000000003c18821185b2a816c634b028",
+      "declaredWidth": 1199,
+      "declaredHeight": 1312,
+      "bytes": 2073714,
+      "sha256": "d3452350ae8837d9f3ee2c98e4024a23c3943d6dabecea904a8c8881e53e51df",
+      "mimeType": "image/png",
+      "retrievedAt": "2026-11-25T10:02:01.679868+00:00",
+      "status": "imported",
+      "image": "images/Dress/泡泡服-02.png",
+      "promptFile": "images/Dress/泡泡服-02.md",
+      "addedAt": "2026-11-25T10:02:01.681425+00:00",
+      "addedOrder": 1
+    }
+  ]
+}
